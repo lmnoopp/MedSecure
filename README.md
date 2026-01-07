@@ -1,4 +1,5 @@
-# MedSecure: Secure Medical Documentation Sending over the Private Network
+# MedSecure
+Secure Medical Documentation Sending over the Private Network
 
 ## Customer Challenge
 A healthcare organization requires a secure medical document processing system that ensures that all PHI data never traverses the public internet and remains completely isolated from internet-facing applications to meet HIPAA requirements.
